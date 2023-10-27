@@ -31,6 +31,8 @@ nav: true
 
 #### Awards
 
+- World's Top 2% Scientist by Stanford University, 2023. [[News](https://ecebm.com/2023/10/04/stanford-university-names-worlds-top-2-scientists-2023/)]
+- AI 2000 Most Influential Scholars by AMiner, 2022.
 - Outstanding reviewer. NeurIPS 2022.
 - Innovation award. IJCAI federated learning workshop 2022.
 - Distinguished doctoral thesis award (中国科学院优秀博士学位论文奖) 2020.
