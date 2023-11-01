@@ -9,12 +9,17 @@ nav: true
 
 Current interns:
 
-- 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
+- 2023.10 -- present, Kaijie Zhu, master @ Institute of Automation, CAS.
 - 2023.09 -- present, Cheng Li, master @ Institute of Software, CAS.
 
 Alumni:
 
+- 2023.05 -- 2023.10, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: continus his Ph.D.
+  - Topics: robustness of foundation models.
+  - Outcomes during internship: [Noisy model learning](https://arxiv.org/abs/2309.17002), [PromptBench](https://github.com/microsoft/promptbench)
 - 2023.06 -- 2023.09, Yachuan Liu, PhD @ University of Michigan, Ann Arbor.
+  - Topics: evaluations of large language models
+  - Outcomes during internship: [Meta semantic evaluation of LLMs](https://arxiv.org/abs/2310.01448)
 - 2023.03 -- 2023.06, Kaijie Zhu, Master @ Institute of Automation, CAS.
   - Topics: adversarial machine learning and large language language models.
   - Outcomes during internship: ICCV'23, [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
@@ -40,8 +45,10 @@ Alumni:
 
 #### Collaborating students
 
-- Ph.D students at ICT, CAS: Xin Qin (Ubicomp, KDD, national scholarship), Yuxin Zhang.
+- Ph.D students at ICT, CAS: 
+  - Xin Qin (Ubicomp, KDD, national scholarship). Now: assistant professor at ICT, CAS.
+  - Yuxin Zhang (TKDE * 2). Now: engineer at StateGrid.
 - Ph.D student at Institute of Acoustics, CAS: Han Zhu.
-- Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang.
+- Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang (KDD'23).
 - Ph.D student at University of Tokyo: Yivan Zhang, Wei Wang.
 - Ph.D student at Geogia Tech: Yiqiao Jin.

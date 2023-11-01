@@ -40,6 +40,7 @@ Open source:
 
 ##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
 
+- **[UbiComp'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei.
 - **[NeurIPS'23]** Generating and Distilling Discrete Adversarial Examples from Large-Scale Models. Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang.
 - **[ICCV'23]** Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning. Kaijie Zhu, Xixu Hu, Jindong Wang, Xing Xie, Ge Yang.
 - **[ICLR'23]** [Out-of-distribution Representation Learning for Time Series Classification](https://arxiv.org/abs/2209.07027). Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, and Xing Xie.
@@ -52,9 +53,9 @@ Open source:
 - **[UbiComp'22]** [Semantic-Discriminative Mixup for Generalizable Sensor-based Cross-domain Activity Recognition](http://arxiv.org/abs/2206.06629). Wang Lu, Jindong Wang, Yiqiang Chen, Sinno Pan, Chunyu Hu, and Xin Qin.
 - **[NeurIPS'21]** [Learning causal semantic representation for out-of-distribution prediction](https://arxiv.org/abs/2011.01681). Chang Liu, Xinwei Sun, Jindong Wang , Haoyue Tang, Tao Li, Tao Qin, Wei Chen, and Tie-Yan Liu.
 - **[CIKM'21]** [Adarnn: Adaptive learning and forecasting of time series](https://arxiv.org/abs/2108.04443). Yuntao Du, Jindong Wang, Wenjie Feng, Sinno Pan, Tao Qin, Renjun Xu, and Chongjun Wang.
-- **[TNNLS'20, 300 + citations]** [Deep subdomain adaptation network for image classification](https://ieeexplore.ieee.org/document/9085896). Yongchun Zhu, Fuzhen Zhuang, Jindong Wang, Guolin Ke, Jingwu Chen, Jiang Bian, Hui Xiong, and Qing He.
-- **[ACMMM'18, 400+ citations]** [Visual domain adaptation with manifold embedded distribution alignment](https://jd92.wang/assets/files/a11_mm18.pdf). Jindong Wang, Wenjie Feng, Yiqiang Chen, Han Yu, Meiyu Huang, and Philip S Yu.
-- **[ICDM'17, 400+ citations]** [Balanced distribution adaptation for transfer learning](http://ieeexplore.ieee.org/document/8215613/?part=1). Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, and Zhiqi Shen.
+- **[TNNLS'20, 400 + citations]** [Deep subdomain adaptation network for image classification](https://ieeexplore.ieee.org/document/9085896). Yongchun Zhu, Fuzhen Zhuang, Jindong Wang, Guolin Ke, Jingwu Chen, Jiang Bian, Hui Xiong, and Qing He.
+- **[ACMMM'18, 500+ citations]** [Visual domain adaptation with manifold embedded distribution alignment](https://jd92.wang/assets/files/a11_mm18.pdf). Jindong Wang, Wenjie Feng, Yiqiang Chen, Han Yu, Meiyu Huang, and Philip S Yu.
+- **[ICDM'17, 500+ citations]** [Balanced distribution adaptation for transfer learning](http://ieeexplore.ieee.org/document/8215613/?part=1). Jindong Wang, Yiqiang Chen, Shuji Hao, Wenjie Feng, and Zhiqi Shen.
 - Open-source: 
   - [Transfer learning](https://github.com/jindongwang/transferlearning) [![Transfer learning repo](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social)](https://github.com/jindongwang/transferlearning)
   - robustlearn: A unified repo for robust machine learning, such as OOD and adversarial robustness: [robustlearn](https://github.com/microsoft/robustlearn) [![robustlearn](https://img.shields.io/github/stars/microsoft/robustlearn?style=social)](https://img.shields.io/github/stars/microsoft/robustlearn)

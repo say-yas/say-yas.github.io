@@ -8,6 +8,7 @@ nav: true
 #### Academic service
 
 - Journal editorship:
+  - Guest editor of ACM Transactions on Intelligence Systems and Technology (TIST)
   - Editorial board of young scientist, Journal of Computer Science and Technology (JCST) 
 - Conference organizer:
   - IJCAI 2019 Publicity co-chair
