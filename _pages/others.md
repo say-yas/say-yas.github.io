@@ -14,7 +14,7 @@ Current interns:
 
 Alumni:
 
-- 2023.05 -- 2023.10, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: continus his Ph.D.
+- 2023.05 -- 2023.10, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: continues his Ph.D.
   - Topics: robustness of foundation models.
   - Outcomes during internship: [Noisy model learning](https://arxiv.org/abs/2309.17002), [PromptBench](https://github.com/microsoft/promptbench)
 - 2023.06 -- 2023.09, Yachuan Liu, PhD @ University of Michigan, Ann Arbor.
