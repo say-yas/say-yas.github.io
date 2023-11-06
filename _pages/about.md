@@ -25,4 +25,6 @@ Dr. Jindong Wang is currently a Senior Researcher at Microsoft Research Asia. He
 
 **Announcement:** I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested!
 
+**Announcement:** Call for papers for ACM TIST special issue on Evaluations of Large Langauge Models! [[more](https://dl.acm.org/pb-assets/static_journal_pages/tist/pdf/TIST_CfP_LLMS-1696884403733.pdf)]
+
 
