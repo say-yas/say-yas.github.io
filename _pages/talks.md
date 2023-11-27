@@ -29,6 +29,7 @@ nav: true
 
 #### Invited Course
 
+- Invited course: **Transfer learning and large languaeg models**, at City University of Hong Kong. 2023.
 - Invited course: **Transfer learning**, at Institute of Computing Technology, CAS. 2023.
 - Invited course: **Transfer learning**, at Tsinghua University. Dec. 2019. (THU's
                     advanced machine learning course for EE graduates) [[Class photo](http://jd92.wang/image/img_thu.png)]

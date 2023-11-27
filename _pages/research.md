@@ -41,7 +41,9 @@ Open source:
 ##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
 
 - **[UbiComp'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei.
-- **[NeurIPS'23]** Generating and Distilling Discrete Adversarial Examples from Large-Scale Models. Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang.
+- **[CPAL'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang , Huajun Xi, Bob Zhang, Lei Zhang, and Hongxin Wei.
+- **[TNNLS'24]** UP-Net: An Uncertainty-Driven Prototypical Network for Few-Shot Fault Diagnosis. Ge Yu, Jindong Wang, Jinhai Liu, Xi Zhang, Yiqiang Chen, and Xing Xie.
+- **[NeurIPS'23]** [Distilling Out-of-Distribution Robustness from Vision-Language Foundation Models](https://arxiv.org/abs/2311.01441). Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang.
 - **[ICCV'23]** Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning. Kaijie Zhu, Xixu Hu, Jindong Wang, Xing Xie, Ge Yang.
 - **[ICLR'23]** [Out-of-distribution Representation Learning for Time Series Classification](https://arxiv.org/abs/2209.07027). Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, and Xing Xie.
 - **[KDD'23]** [Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/pdf/2208.08661.pdf). YiFan Zhang, Jindong Wang, Jian Liang, Zhang Zhang, Baosheng Yu, Liang Wang, Xing Xie, and Dacheng Tao.
