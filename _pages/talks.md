@@ -13,6 +13,7 @@ nav: true
 
 #### Invited talks
 
+- Inivted talk: **Understanding LLMs: evaluation, enhancement, and interdisciplinary research**, at UIUC. Nov. 2023.
 - Invited talk: **Theory, evaluation, and enhancement of large language models**, at [HHME 2023](https://hhme.ccf.org.cn/ZTLT_PCC_2023.html), Harbin, China. August 2023.
 - Invited talk: **Towards generalization in dynamic distributions**, at Domain Generalization [workshop](https://warwick.ac.uk/fac/cross_fac/tia/domgen2023/) in University of Warwick, UK. July 2023. [[Youtube](https://www.youtube.com/watch?v=_VEvqQtOTQ0)]
 - Invited talk: **Towards robustness research in the era of large models**, at Southern University of Science Technology (Sustech), Shenzhen. June 2023.
