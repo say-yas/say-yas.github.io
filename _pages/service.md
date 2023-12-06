@@ -8,27 +8,29 @@ nav: true
 #### Academic service
 
 - Journal editorship:
-  - Guest editor of ACM Transactions on Intelligence Systems and Technology (TIST)
-  - Editorial board of young scientist, Journal of Computer Science and Technology (JCST) 
+  - Guest editor, ACM Transactions on Intelligence Systems and Technology (TIST)
+  - Associate editor, Journal of Computer Science and Technology (JCST) 
 - Conference organizer:
   - IJCAI 2019 Publicity co-chair
   - ICDM 2019 transfer learning session chair
 - Conference senior member/area chair:
-  - NeurIPS 2023 Area Chair (Dataset and Benchmark track)
-  - Senior PC of AAAI 2023, 2024
-  - IJCAI 2023 senior PC
+  - Area Chair:
+    - NeurIPS 2023 (Dataset and Benchmark track)
+  - Senior PC:
+    - AAAI 2024, 2023
+    - IJCAI 2024, 2023
 - Conference PC member: 
-  - ML area: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2023, 2022, 2021, 2020)
+  - ML area: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)
   - AI area: AAAI (2022, 2021, 2020); IJCAI (2022)
-  - CV area: CVPR (2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
-  - DM area: KDD (2021); WWW (2023, 2022, 2021); SDM (2023, 2022); WSDM (2023); LOG (2024)
+  - CV area: CVPR (2024, 2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
+  - DM area: KDD (2021); WWW (2024, 2023, 2022, 2021); SDM (2023, 2022); WSDM (2023); LOG (2024)
   - HCI area: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
 - Journal reviewer: 
-  - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, TMC, ACM CSUR, ACM TIST, IEEE TBD, Knowledge-Based Systems, Neurocomputing, Pervasive and Mobile Computing.
+  - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, ACM CSUR, ACM TIST, IEEE TBD etc.
 - Membership: 
+  - Member of IEEE, ACM, and CCF
   - Member of CCF technical committee pervasive computing (TCPC)
   - Member of human computer interaction (TCHCI)
-  - CCF member
 
 #### Awards
 
