@@ -40,6 +40,7 @@ Open source:
 
 ##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
 
+- **[IEEE VR 24]** Generating Virtual Reality Interaction Data from Out-of-Distribution Desktop Data: An Exploration Using Stroke Gestures. Linping Yuan, Boyu Li, Jindong Wang, Huaming Qu, Wei Zeng.
 - **[UbiComp'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei.
 - **[CPAL'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang , Huajun Xi, Bob Zhang, Lei Zhang, and Hongxin Wei.
 - **[TNNLS'24]** UP-Net: An Uncertainty-Driven Prototypical Network for Few-Shot Fault Diagnosis. Ge Yu, Jindong Wang, Jinhai Liu, Xi Zhang, Yiqiang Chen, and Xing Xie.
