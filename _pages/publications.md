@@ -11,6 +11,7 @@ nav: true
 
 #### Preprints
 
+- The Good, the Bad, and Why: Unveiling Emotions in Generative AI. Cheng Li, Jindong Wang, Yixuan Zhang, Kaijie Zhu, Xinyi Wang, Wenxin Hou, Jianxun Lian, Fang Luo, Qiang Yang, Xing Xie. [[arxiv](https://arxiv.org/abs/2312.11111)]
 - CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents. Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie. [[arxiv](https://arxiv.org/abs/2310.17512)]
 - DyVal: Graph-informed Dynamic Evaluation of Large Language Models. Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie. [[arxiv](https://arxiv.org/abs/2309.17167)]
 - Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks. Hao Chen, Jindong Wang, Ankit Shah, Ran Tao, Hongxin Wei, Xing Xie, Masashi Sugiyama, Bhiksha Raj. [[arxiv](https://arxiv.org/abs/2309.17002)]
