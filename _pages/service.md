@@ -8,17 +8,17 @@ nav: true
 #### Academic service
 
 - Journal editorship:
+  - Associate editor, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   - Guest editor, ACM Transactions on Intelligence Systems and Technology (TIST)
   - Associate editor, Journal of Computer Science and Technology (JCST) 
-- Conference organizer:
-  - IJCAI 2019 Publicity co-chair
-  - ICDM 2019 transfer learning session chair
-- Conference senior member/area chair:
+- Conference organization:
   - Area Chair:
     - NeurIPS 2023 (Dataset and Benchmark track)
   - Senior PC:
     - AAAI 2024, 2023
     - IJCAI 2024, 2023
+  - IJCAI 2019 Publicity co-chair
+  - ICDM 2019 transfer learning session chair
 - Conference PC member: 
   - ML area: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)
   - AI area: AAAI (2022, 2021, 2020); IJCAI (2022)
