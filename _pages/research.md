@@ -40,6 +40,7 @@ Open source:
 
 ##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
 
+- **[IEEE TPAMI'24]** [DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization](https://arxiv.org/abs/2308.02282). Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, Xiangyang Ji, Qiang Yang, Xing Xie.
 - **[IEEE VR 24]** Generating Virtual Reality Interaction Data from Out-of-Distribution Desktop Data: An Exploration Using Stroke Gestures. Linping Yuan, Boyu Li, Jindong Wang, Huaming Qu, Wei Zeng.
 - **[UbiComp'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei.
 - **[CPAL'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang , Huajun Xi, Bob Zhang, Lei Zhang, and Hongxin Wei.
