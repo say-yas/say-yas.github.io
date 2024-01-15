@@ -9,7 +9,7 @@ nav: true
 <img src="../assets/img/research.png" style="width: 85%"/>
 </center>
 
-The long-term research goal is to build robust models for modern AI, such as pre-trained models and large models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal.
+The long-term research goal is to build understand, evaluate, and enhance modern AI models, such as pre-trained and large foundation models. We create new theory, algorithms, applications, and open-sourced library to achieve our goal.
 These days, we are specifically interested in **large language models (LLMs)** [evaluation](https://llm-eval.github.io/) and [robustness enhancement](https://llm-enhance.github.io/).
 
 Our research consists of the following topics with selected publications: [[View by year](https://jd92.wang/publications/)] [[Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ)]
