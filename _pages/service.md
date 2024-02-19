@@ -13,6 +13,7 @@ nav: true
   - Associate editor, Journal of Computer Science and Technology (JCST) 
 - Conference organization:
   - Area Chair:
+    - KDD 2024 Research track
     - ACM Multimedia (MM) 2024
     - NeurIPS 2023 (Dataset and Benchmark track)
   - Senior PC:
