@@ -12,6 +12,7 @@ nav: true
 #### Preprints
 
 - On Catastrophic Inheritance of Large Foundation Models. Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang. [[arxiv](https://arxiv.org/abs/2402.01909)]
+- SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization. Xixu Hu, Runkai Zheng, Jindong Wang, Cheuk Hang Leung, Qi Wu, Xing Xie. [[arxiv](https://arxiv.org/abs/2402.03317)]
 - PromptBench: A Unified Library for Evaluation of Large Language Models. Kaijie Zhu, Qinlin Zhao, Hao Chen, Jindong Wang, Xing Xie. [[arxiv](https://arxiv.org/abs/2312.07910)]
 - The Good, the Bad, and Why: Unveiling Emotions in Generative AI. Cheng Li, Jindong Wang, Yixuan Zhang, Kaijie Zhu, Xinyi Wang, Wenxin Hou, Jianxun Lian, Fang Luo, Qiang Yang, Xing Xie. [[arxiv](https://arxiv.org/abs/2312.11111)]
 - CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents. Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie. [[arxiv](https://arxiv.org/abs/2310.17512)]
