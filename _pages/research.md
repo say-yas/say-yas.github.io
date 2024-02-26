@@ -17,6 +17,7 @@ Our research consists of the following topics with selected publications: [[View
 ##### New: large models
 
 Evaluation: (website: https://llm-eval.github.io/)
+- [arXiv'24] [DyVal 2: Dynamic Evaluation of Large Language Models by Meta Probing Agents](https://arxiv.org/abs/2402.14865). Kaijie Zhu, Jindong Wang, Qinlin Zhao, Ruochen Xu, Xing Xie.
 - **[ICLR'24 spotlight]** [DyVal: Graph-informed Dynamic Evaluation of Large Language Models](https://arxiv.org/abs/2309.17167). Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie.
 - **[ICLR'24]** [PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](https://arxiv.org/abs/2306.05087). Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang. [[code](https://github.com/WeOpenML/PandaLM)]
 - [arXiv'23] [CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents](https://arxiv.org/abs/2310.17512). Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie.
@@ -28,6 +29,8 @@ Evaluation: (website: https://llm-eval.github.io/)
 
 
 Enhancement: (website: https://llm-enhance.github.io/)
+- [arXiv'24] [On Catastrophic Inheritance of Large Foundation Models](https://arxiv.org/abs/2402.01909). Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang.
+- [arXiv'24] [CultureLLM: Incorporating Cultural Differences into Large Language Models](https://arxiv.org/abs/2402.10946). Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.
 - **[ICLR'24 spotlight]** [Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks](https://arxiv.org/abs/2309.17002). Hao Chen, Jindong Wang, Ankit Shah, Ran Tao, Hongxin Wei, Xing Xie, Masashi Sugiyama, Bhiksha Raj.
 - **[ICLR'24]** [Supervised Knowledge Makes Large Language Models Better In-context Learners](https://arxiv.org/abs/2312.15918). Linyi Yang, Shuibai Zhang, Zhuohao Yu, Guangsheng Bao, Yidong Wang, Jindong Wang, Ruochen Xu, Wei Ye, Xing Xie, Weizhu Chen, Yue Zhang. 
 - [arXiv'23] [ZooPFL: Exploring Black-box Foundation Models for Personalized Federated Learning](https://arxiv.org/abs/2310.05143). Wang Lu, Hao Yu, Jindong Wang, Damien Teney, Haohan Wang, Yiqiang Chen, Qiang Yang, Xing Xie, Xiangyang Ji.
@@ -79,7 +82,7 @@ Open source:
 
 
 ##### Safe transfer learning for security
-
+- [arXiv'24] [SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization](https://arxiv.org/abs/2402.03317). Xixu Hu, Runkai Zheng, Jindong Wang, Cheuk Hang Leung, Qi Wu, Xing Xie.
 - **[TNNLS'23]** [MetaFed: Federated Learning among Federations with Cyclic Knowledge Distillation for Personalized Healthcare](https://arxiv.org/pdf/2206.08516.pdf). Yiqiang Chen, Wang Lu, Xin Qin, Jindong Wang , and Xing Xie. 
 - **[ICSE'22]** [ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing](https://jd92.wang/assets/files/icse22-remos.pdf). Ziqi Zhang, Yuanchun Li, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, and Yunxin Liu.
 - **[IEEE Data Engineering Bulletin'23]** FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning. Wang Lu, Xixu Hu, Jindong Wang, Xing Xie. [[arxiv](https://arxiv.org/abs/2302.13485)]
