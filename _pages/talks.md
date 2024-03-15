@@ -13,6 +13,7 @@ nav: true
 
 #### Invited talks
 
+- **Understanding LLMs: evaluation, enhancement, and interdisciplinary research**, at KAUST AI symposium. Feb. 2024.
 - **Understanding LLMs: evaluation, enhancement, and interdisciplinary research**, at UIUC. Nov. 2023.
 - **Theory, evaluation, and enhancement of large language models**, at [HHME 2023](https://hhme.ccf.org.cn/ZTLT_PCC_2023.html), Harbin, China. August 2023.
 - **Towards generalization in dynamic distributions**, at Domain Generalization [workshop](https://warwick.ac.uk/fac/cross_fac/tia/domgen2023/) in University of Warwick, UK. July 2023. [[Youtube](https://www.youtube.com/watch?v=_VEvqQtOTQ0)]
