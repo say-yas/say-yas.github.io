@@ -41,7 +41,7 @@ Alumni:
   - Publications during internship: NeurIPS'21, TASLP'22, Interspeech'21.
 - 2020.05 -- 2020.09, Yuntao Du, Ph.D @ Nanjing University. Now: continue his Ph.D in NJU.
   - Topics: domain adaptation, time series analysis.
-  - Publications during internship: CIKM'21.
+  - Publications during internship: CIKM'21 (Paperdigest most influential papers).
 - 2019.10 -- 2020.01, Weixin Lu, Bachelor @ Peking University. Now: Ph.D @ New York University.
   - Topics: transfer learning, time series analysis, fintech.
 
@@ -54,3 +54,20 @@ Alumni:
 - Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang (KDD'23).
 - Ph.D student at University of Tokyo: Yivan Zhang, Wei Wang.
 - Ph.D student at Geogia Tech: Yiqiao Jin.
+
+#### Academic collaborators
+
+- Philip S. Yu, University of Illinois Chicago
+- Qiang Yang, Hong Kong University of Science and Technology
+- Yue Zhang, Westlake University.
+- Sinno Pan, The Chinese University of Hong Kong
+- Bhiksha Raj, Carnegie Mellon University
+- Masashi, Sugiyama, RIKEN and University of Tokyo.
+- Takahiro Shinozaki, Tokyo Institute of Technology.
+- Bernt Schiele, Max Planck Institute for Informatics.
+- Han Yu, Nanyang Technological University.
+- Janice Yixuan Zhang, William & Mary
+- Haohan Wang, University of Illinois Urbana-Champaign.
+- Diyi Yang, Stanford University.
+- Neil Zhenqiang Gong, Duke University.
+- Haoliang Li, City University of Hong Kong.
