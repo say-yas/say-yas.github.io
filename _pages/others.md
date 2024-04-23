@@ -9,7 +9,6 @@ nav: true
 
 Current interns:
 
-- 2024.01 -- present, Mingxuan Xia, master @ Zhejiang University.
 - 2023.10 -- present, Kaijie Zhu, master @ Institute of Automation, CAS.
 - 2023.09 -- present, Cheng Li, master @ Institute of Software, CAS.
 - 2023.08 -- present, Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
