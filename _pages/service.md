@@ -15,18 +15,18 @@ nav: true
   - Area Chair:
     - KDD 2024 Research track
     - ACM Multimedia (MM) 2024
-    - NeurIPS 2023 (Dataset and Benchmark track)
+    - NeurIPS 2024, 2023 (Dataset and Benchmark track)
   - Senior PC:
     - AAAI 2024, 2023
     - IJCAI 2024, 2023
   - IJCAI 2019 Publicity co-chair
   - ICDM 2019 transfer learning session chair
 - Conference PC member / reviewer: 
-  - ML area: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)
-  - AI area: AAAI (2022, 2021, 2020); IJCAI (2022)
-  - CV area: CVPR (2024, 2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
-  - DM area: KDD (2021); WWW (2024, 2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
-  - HCI area: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
+  - ML: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)
+  - AI: AAAI (2022, 2021, 2020); IJCAI (2022)
+  - CV: CVPR (2024, 2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
+  - DM: KDD (2021); WWW (2024, 2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
+  - HCI: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
 - Journal reviewer: 
   - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, ACM CSUR, ACM TIST, IEEE TBD etc.
 - Membership: 
