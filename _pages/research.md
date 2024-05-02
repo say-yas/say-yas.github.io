@@ -17,18 +17,19 @@ Our research consists of the following topics with selected publications: [[View
 ##### New: large models
 
 Evaluation: (website: https://llm-eval.github.io/)
-- [arXiv'24] [DyVal 2: Dynamic Evaluation of Large Language Models by Meta Probing Agents](https://arxiv.org/abs/2402.14865). Kaijie Zhu, Jindong Wang, Qinlin Zhao, Ruochen Xu, Xing Xie.
+- **[ICML'24]** [DyVal 2: Dynamic Evaluation of Large Language Models by Meta Probing Agents](https://arxiv.org/abs/2402.14865). Kaijie Zhu, Jindong Wang, Qinlin Zhao, Ruochen Xu, Xing Xie.
 - **[ICLR'24 spotlight]** [DyVal: Graph-informed Dynamic Evaluation of Large Language Models](https://arxiv.org/abs/2309.17167). Kaijie Zhu, Jiaao Chen, Jindong Wang, Neil Zhenqiang Gong, Diyi Yang, Xing Xie.
 - **[ICLR'24]** [PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](https://arxiv.org/abs/2306.05087). Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang. [[code](https://github.com/WeOpenML/PandaLM)]
-- [arXiv'23] [CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents](https://arxiv.org/abs/2310.17512). Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie.
+- **[ICML'24]** [CompeteAI: Understanding the Competition Behaviors in Large Language Model-based Agents](https://arxiv.org/abs/2310.17512). Qinlin Zhao, Jindong Wang, Yixuan Zhang, Yiqiao Jin, Kaijie Zhu, Hao Chen, Xing Xie.
 - [arXiv'23] [Meta Semantic Template for Evaluation of Large Language Models](https://arxiv.org/abs/2310.01448). Yachuan Liu, Liang Chen, Jindong Wang, Qiaozhu Mei, Xing Xie.
-- [arXiv'23] [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie. [[code](https://github.com/MLGroupJLU/LLM-eval-survey)]
+- [ACM TIST'24] [A Survey on Evaluation of Large Language Models](https://arxiv.org/abs/2307.03109). Yupeng Chang, Xu Wang, Jindong Wang, Yuan Wu, Kaijie Zhu, Hao Chen, Linyi Yang, Xiaoyuan Yi, Cunxiang Wang, Yidong Wang, Wei Ye, Yue Zhang, Yi Chang, Philip S. Yu, Qiang Yang, Xing Xie. [[code](https://github.com/MLGroupJLU/LLM-eval-survey)]
 - [arXiv'23] [PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528). Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie. [[code](https://github.com/microsoft/promptbench)]
 - **[ACL'23 findings]** [GLUE-X: Evaluating Natural Language Understanding Models from an Out-of-distribution Generalization Perspective](https://arxiv.org/abs/2211.08073). Linyi Yang, Shuibai Zhang, Libo Qin, Yafu Li, Yidong Wang, Hanmeng Liu, Jindong Wang, Xing Xie, Yue Zhang.
 - **[ICLR'23 large model workshop]** [On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095). Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, and Xing Xie.
 
 
 Enhancement: (website: https://llm-enhance.github.io/)
+- **[ICML'24]** [The Good, the Bad, and Why: Unveiling Emotions in Generative AI](https://arxiv.org/abs/2312.11111). Cheng Li, Jindong Wang, Yixuan Zhang, Kaijie Zhu, Xinyi Wang, Wenxin Hou, Jianxun Lian, Fang Luo, Qiang Yang, Xing Xie. 
 - [arXiv'24] [On Catastrophic Inheritance of Large Foundation Models](https://arxiv.org/abs/2402.01909). Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang.
 - [arXiv'24] [CultureLLM: Incorporating Cultural Differences into Large Language Models](https://arxiv.org/abs/2402.10946). Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie.
 - **[ICLR'24 spotlight]** [Understanding and Mitigating the Label Noise in Pre-training on Downstream Tasks](https://arxiv.org/abs/2309.17002). Hao Chen, Jindong Wang, Ankit Shah, Ran Tao, Hongxin Wei, Xing Xie, Masashi Sugiyama, Bhiksha Raj.
@@ -42,8 +43,9 @@ Open source:
   - [Project SearchAnything](https://github.com/Immortalise/SearchAnything): semantic local search.
 
 
-##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
+##### Out-of-distribution (Domain) generalization and general machine learning
 
+- **[ICML'24]** [A General Framework for Learning from Weak Supervision](https://arxiv.org/abs/2402.01922). Hao Chen, Jindong Wang, Lei Feng, Xiang Li, Yidong Wang, Xing Xie, Masashi Sugiyama, Rita Singh, Bhiksha Raj
 - **[IEEE TPAMI'24]** [DIVERSIFY: A General Framework for Time Series Out-of-distribution Detection and Generalization](https://arxiv.org/abs/2308.02282). Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, Xiangyang Ji, Qiang Yang, Xing Xie.
 - **[IEEE VR 24]** Generating Virtual Reality Interaction Data from Out-of-Distribution Desktop Data: An Exploration Using Stroke Gestures. Linping Yuan, Boyu Li, Jindong Wang, Huaming Qu, Wei Zeng.
 - **[UbiComp'24]** [Optimization-Free Test-Time Adaptation for Cross-Person Activity Recognition](https://arxiv.org/abs/2310.18562). Shuoyuan Wang, Jindong Wang, HuaJun Xi, Bob Zhang, Lei Zhang, Hongxin Wei.
