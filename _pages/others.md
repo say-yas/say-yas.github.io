@@ -9,12 +9,16 @@ nav: true
 
 Current interns:
 
-- 2023.10 -- present, Kaijie Zhu, master @ Institute of Automation, CAS.
-- 2023.09 -- present, Cheng Li, master @ Institute of Software, CAS.
+- 2024.05 -- present, Zhiquan Tan, PhD @ Tsinghua.
+- 2024.05 -- present, Shudong Liu, PhD @ U. Macao.
 - 2023.08 -- present, Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
+  - Outcomes during internship: [CompeteAI (ICML'24)](https://arxiv.org/abs/2310.17512), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910)
 
 Alumni:
-
+- 2023.09 -- 2024.05, Cheng Li, master @ Institute of Software, CAS.
+  - Ourcomes during internship: [EmotionPrompt (ICML'24)](https://arxiv.org/abs/2312.11111), [NegativePrompt (IJCAI'24)](https://arxiv.org/abs/2405.02814)
+- 2023.10 -- 2024.04, Kaijie Zhu, master @ Institute of Automation, CAS.
+  - Outcomes during internship: [DyVal 2 (ICML'24)](https://arxiv.org/abs/2402.14865), [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [Adversarial robustness (ICCV'23)](https://arxiv.org/abs/2308.02533), [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
 - 2023.05 -- 2023.10, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University. Now: continues his Ph.D.
   - Topics: robustness of foundation models.
   - Outcomes during internship: [Noisy model learning (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17002), [PromptBench](https://github.com/microsoft/promptbench)
@@ -23,7 +27,7 @@ Alumni:
   - Outcomes during internship: [Meta semantic evaluation of LLMs](https://arxiv.org/abs/2310.01448)
 - 2023.03 -- 2023.06, Kaijie Zhu, Master @ Institute of Automation, CAS.
   - Topics: adversarial machine learning and large language models.
-  - Outcomes during internship: [Dynamic evaluation of LLMs (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [Adversarial robustness (ICCV'23)](https://arxiv.org/abs/2308.02533), [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
+  - Outcomes during internship: [DyVal 2 (ICML'24)](https://arxiv.org/abs/2402.14865), [DyVal (ICLR'24 spotlight)](https://arxiv.org/abs/2309.17167), [Adversarial robustness (ICCV'23)](https://arxiv.org/abs/2308.02533), [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
 - 2022.10 -- 2023.03, [Xixu Hu](https://xixuhu.github.io/), Ph.D @ City University of Hong Kong.
   - Topics: adversarial machine learning.
   - outcomes during internship: IEEE Data Engineering Bulletin, ICLR'23 workshop.
