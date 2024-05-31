@@ -11,6 +11,7 @@ nav: true
 
 #### Preprints
 
+- CulturePark: Boosting Cross-cultural Understanding in Large Language Models. Cheng Li, Damien Teney, Linyi Yang, Qingsong Wen, Xing Xie, Jindong Wang. [[arXiv](https://arxiv.org/abs/2405.15145)]
 - On Catastrophic Inheritance of Large Foundation Models. Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang. [[arxiv](https://arxiv.org/abs/2402.01909)]
 - CultureLLM: Incorporating Cultural Differences into Large Language Models. Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie. [[arxiv](https://arxiv.org/abs/2402.10946)]
 - SpecFormer: Guarding Vision Transformer Robustness via Maximum Singular Value Penalization. Xixu Hu, Runkai Zheng, Jindong Wang, Cheuk Hang Leung, Qi Wu, Xing Xie. [[arxiv](https://arxiv.org/abs/2402.03317)]
