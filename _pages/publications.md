@@ -11,6 +11,7 @@ nav: true
 
 #### Preprints
 
+- Slight Corruption in Pre-training Data Makes Better Diffusion Models. Hao Chen, Yujin Han, Diganta Misra, Xiang Li, Kai Hu, Difan Zou, Masashi Sugiyama, Jindong Wang, Bhiksha Raj. [[arXiv](https://arxiv.org/abs/2405.20494)]
 - CulturePark: Boosting Cross-cultural Understanding in Large Language Models. Cheng Li, Damien Teney, Linyi Yang, Qingsong Wen, Xing Xie, Jindong Wang. [[arXiv](https://arxiv.org/abs/2405.15145)]
 - On Catastrophic Inheritance of Large Foundation Models. Hao Chen, Bhiksha Raj, Xing Xie, Jindong Wang. [[arxiv](https://arxiv.org/abs/2402.01909)]
 - CultureLLM: Incorporating Cultural Differences into Large Language Models. Cheng Li, Mengzhou Chen, Jindong Wang, Sunayana Sitaram, Xing Xie. [[arxiv](https://arxiv.org/abs/2402.10946)]
