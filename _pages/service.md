@@ -19,7 +19,7 @@ nav: true
     - ACM Multimedia (MM) 2024
     - NeurIPS 2023 (dataset and benchmark track)
   - Senior PC:
-    - AAAI 2024, 2023
+    - AAAI 2025, 2024, 2023
     - IJCAI 2024, 2023
   - IJCAI 2019 Publicity co-chair
   - ICDM 2019 transfer learning session chair
