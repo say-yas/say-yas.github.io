@@ -7,12 +7,15 @@ nav: true
 
 #### Tutorials
 
+- AAAI 2024: **Out-of-Distribution Generalization in Time Series**, Feb., 2024. [[Website&Slides](https://ood-timeseries.github.io/)]
 - KDD 2023: **Trustworthy machine learning: robustness, generalization and interpretability**, Aug., 2023. [[Website&Slides](https://mltrust.github.io/)]
 - WSDM 2023: **On the robustness of ChatGPT and NLP Foundation models: an adversarial and OOD perspective**, Feb., 2023. [[PDF](https://dgresearch.github.io/DG_tutorial_wsdm23_chatgpt.pdf)] [[More](https://dgresearch.github.io/)]
 - IJCAI 2022: **A Tutorial on Domain Generalization**, July, 2022. [[website](https://dgresearch.github.io/)]
 
 #### Invited talks
 
+- **Dynamic evaluation of large language models**, at The First International Conference on Cognitive Psychological Assessment and Enhancement, Jul. 2024. [[website](https://psychometrics.bnu.edu.cn/iccpae2024/index.htm)]
+- **LLM evaluation and interdisciplinary research**, at Sun Yat-Sen University. Jun. 2024.
 - **Understanding LLMs: evaluation, enhancement, and interdisciplinary research**, at KAUST AI symposium. Feb. 2024.
 - **Understanding LLMs: evaluation, enhancement, and interdisciplinary research**, at UIUC. Nov. 2023.
 - **Theory, evaluation, and enhancement of large language models**, at [HHME 2023](https://hhme.ccf.org.cn/ZTLT_PCC_2023.html), Harbin, China. August 2023.
