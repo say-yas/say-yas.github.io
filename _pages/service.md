@@ -14,6 +14,7 @@ nav: true
 - Conference organization:
   - Area Chair:
     - KDD 2025 (research track)
+    - ACML 2024
     - NeurIPS 2024 (main track, dataset and benchmark track)
     - KDD 2024 (research track)
     - ACM Multimedia (MM) 2024
