@@ -24,4 +24,4 @@ Dr. Jindong Wang is currently a Senior Researcher at Microsoft Research Asia. He
 **Research interest:** (See this [page](https://jd92.wang/research/) for more details)
 - Machine learning: robust machine learning, OOD / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications.
 - Large language models: LLM [evaluation](https://llm-eval.github.io/), [enhancement](https://llm-enhance.github.io/), and AI for social sciences.
-- *Interested in [internship](https://zhuanlan.zhihu.com/p/102558267) or collaboration? Contact me.* I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested!
+- *Interested in [internship](https://zhuanlan.zhihu.com/p/102558267) or collaboration? Contact me.* I'm experimenting a new form of research collaboration. You can click [here](https://forms.gle/zRcWP49qF9aR1VXW8) if you are interested!
