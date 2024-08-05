@@ -49,7 +49,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: jindongwang # your GitHub user name
+github_username: say-yas # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Sh_Sayyad # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -183,8 +183,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Wang
-  first_name: Jindong
+  last_name: Sayyad
+  first_name: Sharareh
 
   style: apa
   locale: en
