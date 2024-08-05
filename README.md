@@ -1,4 +1,4 @@
-Sharareh Sayyad's personal website. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a>  and (Jindong Wang's)[https://github.com/jindongwang/jindongwang.github.io] themes.
+Sharareh Sayyad's personal website. Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> and <a href="https://github.com/jindongwang/jindongwang.github.io">Jindong Wang's</a> themes.
 
 
 If you want to use this for yourself, you can fork it or click "Use this template", and modify the following necessary files:
